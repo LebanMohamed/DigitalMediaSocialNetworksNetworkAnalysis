@@ -1,6 +1,6 @@
-# DigitalMediaSocialNetworks_2
+# DigitalMediaSocialNetworks NetworkAnalysis
  
-DigitalMediaSocialNetworks_2 Coursework
+ 
 The aim of this task is to make you familiar and comfortable with understanding networks, calculation of basic metrics and measures using popular software, and understanding the differences between networks.
 * Dataset I: http://snap.stanford.edu/data/soc-sign-bitcoinalpha.html%5BAccessed.
 * Dataset II: Random network
